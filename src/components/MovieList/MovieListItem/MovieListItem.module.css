@@ -1,0 +1,17 @@
+.movieListItem {
+  padding: 5px 12px;
+  border-bottom: 1px solid transparent;
+  position: relative;
+}
+
+.link {
+  color: rgba(0, 0, 0, 0.651);
+  text-decoration: none;
+  margin: 1px;
+
+  &:hover,
+  &:focus {
+    color: rgb(6, 94, 111);
+    font-weight: 600;
+  }
+}

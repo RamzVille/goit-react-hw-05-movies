@@ -1,0 +1,10 @@
+.movieDetailsContainer {
+  display: flex;
+  gap: 30px;
+}
+
+.imageDiv{
+  border-radius: 10px;
+  height: 500px;
+  border: 2px black solid ;
+}
